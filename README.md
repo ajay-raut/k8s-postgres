@@ -1,6 +1,10 @@
 ### Link for K8S Setup (worker and master)
 
 https://github.com/LondheShubham153/kubestarter/tree/main/Kubeadm_Installation_Scripts_and_Documentation
+
+### Security Group Inbound Rules
+![This is my project screenshot](./images/securitygroup.jpg)
+
 ### Step 1: Create the Namespace
 
 First, create the new namespace on your cluster:
